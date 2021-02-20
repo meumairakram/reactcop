@@ -15,4 +15,4 @@ ReactCop consists on the following abstractions out of the box:
 
 ### About the author
 
- Initially configured by Umiar Akram ( [Read more about me!](https://www.codeivo.com/umair-akram) )
+ Initially configured by Umair Akram ( [Read more about me!](https://www.codeivo.com/umair-akram) )
