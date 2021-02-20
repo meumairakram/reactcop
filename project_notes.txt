@@ -1,0 +1,17 @@
+
+Done
+==================
+- Router setup
+
+==================
+
+
+
+Todos
+==================
+- Setup Redux
+- Setup Tailwind
+- Start building something.
+
+
+==================
